@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Santiago-Seringtect
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Bienvenido a [Nombre del Proyecto] en Serinigtec
 
-<!---
-Santiago-Seringtect/Santiago-Seringtect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+¡Hola! 👋 Bienvenido a nuestro repositorio privado de inteligencia artificial en Serinigtec, ubicado en la hermosa ciudad de Cartagena.
+
+## Descripción del Proyecto
+
+Este proyecto tiene como objetivo [breve descripción del propósito y objetivo del proyecto]. Estamos emocionados por las posibilidades que ofrece y estamos comprometidos a hacerlo crecer y mejorar continuamente.
+
+## Estado del Proyecto
+
+[Indica el estado actual del proyecto, por ejemplo, en desarrollo, en producción, etc. Proporciona información sobre las últimas actualizaciones y mejoras.]
+
+## ¿Cómo Empezar?
+
+Si eres miembro del equipo, sigue estos pasos para comenzar:
+
+1. **Clona el Repositorio:**
+   ```bash
+   git clone https://tu-usuario@tu-repositorio.git
